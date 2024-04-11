@@ -203,7 +203,6 @@ plt.show()
 ax = plt.gca()
 plt.rcParams['xtick.direction'] = 'in'
 plt.rcParams['ytick.direction'] = 'in'
-plt.title('MLS-ICP relationship');
 
 #del rgt_icp[6]
 #del rgt_icp[8]
